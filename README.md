@@ -15,11 +15,29 @@ Generation: İlgili saat aralığında yapılan toplam üretimi MWh biriminde b
 temperature tablosunda
 
 DateTime: Sıcaklık değişkenlerinin gözlemlendiği saat aralığını belirtir.
+
+
 AirTemperature: Saat aralığındaki hava sıcaklığını Celsius biriminde belirtir.
+
+
 ComfortTemperature: Saat aralığındaki hissedilen hava sıcaklığını Celsius biriminde belirtir.
+
+
 RelativeHumidity: Saat aralığındaki nem oranını belirtir.
+
+
 WindSpeed: Saat aralığındaki rüzgar hızını km/s biriminde belirtir.
+
+
 WindDirection: Saat aralığındaki rüzgar yönünü belirtir.
+
+
 WWCode: Saat aralığındaki hava durumu kodunu belirtir.
+
+
 EffectiveCloudCover: Saat aralığındaki bulutluluk oranını sekizlik ölçü birimi cinsinden belirtir.
+
+
 sample_submission.csv dosyasına verilen tarih aralığındaki tahmin değerlerinizin Generation kolonuna işlenerek gönderilmesi beklenmektedir.
+
+
